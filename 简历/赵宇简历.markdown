@@ -109,12 +109,11 @@ oa办公移动版，功能要点包含政务审批，通知公告等
 
 ##通过这些了解我
 * 个人作品  
-http://wenku.baidu.com/view/e9792f728e9951e79b89270b.html  
-http://www.anzhi.com/soft_2571208.html
-http://www.anzhi.com/soft_2106910.html    
+  http://wenku.baidu.com/view/e9792f728e9951e79b89270b.html  
+  http://www.anzhi.com/soft_2106910.html    
 * 网站  
-https://github.com/xiaofans  
-http://xiaofans.github.io/
+  https://github.com/xiaofans  
+  http://xiaofans.github.io/
 
 
 
