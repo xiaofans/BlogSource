@@ -221,4 +221,4 @@ fun alphabet() = StringBuilder().apply {
 
 ​	**总结**
 
-​	
+​	![](https://raw.githubusercontent.com/xiaofans/BlogSource/master/kotlin%E5%AD%A6%E4%B9%A0/pics/lambda%E6%80%BB%E7%BB%93.png)
